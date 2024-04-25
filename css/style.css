@@ -89,6 +89,12 @@ body h1 {
     width: 25%;   
 }
 
+.img {
+  height: 15%;
+  width: 15%;
+  display: inline-block;
+}
+
 .slideshow-img {
     max-width: 40%;
     max-height: 40%;
